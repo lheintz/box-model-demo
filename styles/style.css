@@ -1,0 +1,104 @@
+<style>
+    /* This is a comment */ 
+    
+    h1:hover {
+      color: blue;
+    }
+    
+    a:visited {
+      text-decoration:none;
+    }
+    
+    header {
+      width:75%;
+      margin:auto;
+      background-color:beige;
+    }
+    
+    article {
+      width:50%;
+      margin:auto;
+      background-color:greenyellow;
+    }
+    
+    footer {
+      border: 1px solid red;
+      border-radius:20px;
+    }
+    
+/*
+    body {
+      background-color: azure;
+    }
+    h1 {
+      color:blue;
+    }
+    img {
+      width:60%;
+      height:auto;
+    }
+    nav {
+      background-color:aquamarine;
+    }
+    header h1 {
+      color:purple;
+    }
+    
+    #main {
+      color:grey;
+    }
+    
+    .highlight {
+      color:yellow;
+    }
+    
+    aside p {
+      background-color: greenyellow;
+    }
+    
+    .highlight p {
+      background-color: greenyellow;
+    }
+    
+    p {
+      color:black;
+    }
+    
+    a {
+      text-decoration:line-through;
+    }
+*/
+    
+/*
+    a:hover {
+      text-decoration:underline;
+      font-size:1.5em;
+    }
+*/
+    
+/*
+    nav a:hover {
+      text-decoration:underline;
+      font-size:1.5em;
+    }
+*/
+    
+    
+/*
+    aside.highlight {
+      background-color: greenyellow;
+    }
+*/
+    
+/*
+    aside .highlight {
+      background-color: greenyellow;
+    }
+    
+    p::first-letter {
+      font-size:2em;
+      color:firebrick;
+    }
+    
+*/
+  </style>
